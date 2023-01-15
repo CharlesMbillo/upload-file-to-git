@@ -1,6 +1,6 @@
-# upload-file-to-git
-here is python basic code
+# Upload-file-to-git
+Here is python basic codes
 ## NOTE
 This code file will only open on Jupyter extension.
-## python
+## Python
 Python is easy to understand
